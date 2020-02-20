@@ -1,4 +1,4 @@
-package javacore.senior.practice;
+package javacore.basic.practice;
 
 /**
  * @author hskBeginner Email：2752962035@qq.com
