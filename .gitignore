@@ -38,21 +38,3 @@ hs_err_pid*
 .gitignore
 /out/
 # /target/
-day00/src/javacore/basic/practice/
-day01/src/javacore/basic/practice/
-day02/src/javacore/basic/practice/
-day03/src/javacore/basic/practice/
-day04/src/javacore/basic/practice/
-day05/src/javacore/basic/practice/
-day06/src/javacore/basic/practice/
-day08/src/javacore/basic/practice/
-day09/src/javacore/basic/practice/
-day10/src/javacore/basic/practice/
-day11/src/javacore/basic/practice/
-day12/src/javacore/basic/practice/
-day13/src/javacore/basic/practice/
-day14/src/javacore/basic/practice/
-day15/src/javacore/basic/practice/
-day16/src/javacore/basic/practice/
-day17/src/javacore/basic/practice/
-day17/src/javacore/basic/shk/
