@@ -1,6 +1,6 @@
 package com.atguigu.team.domain;
 
-import com.atguigu.team.service.*;
+import com.atguigu.team.service.Status;
 
 public class Programmer extends Employee {
     private int memberId;

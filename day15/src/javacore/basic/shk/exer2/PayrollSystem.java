@@ -1,7 +1,6 @@
 package javacore.basic.shk.exer2;
 
 import java.util.Calendar;
-import java.util.Scanner;
 
 /*
  * 定义PayrollSystem类，创建Employee变量数组并初始化，该数组存放各类雇员对象的引用。

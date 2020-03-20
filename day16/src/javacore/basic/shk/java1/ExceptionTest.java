@@ -1,11 +1,9 @@
 package javacore.basic.shk.java1;
 
-import java.io.File;
-import java.io.FileInputStream;
+import org.junit.Test;
+
 import java.util.Date;
 import java.util.Scanner;
-
-import org.junit.Test;
 
 /*
  * 一、异常体系结构

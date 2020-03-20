@@ -1,11 +1,11 @@
 package javacore.basic.shk.java1;
 
+import org.junit.Test;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
-import org.junit.Test;
 
 /*
  * try-catch-finally中finally的使用：

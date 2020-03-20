@@ -1,6 +1,6 @@
 package com.atguigu.team.view;
 
-import java.util.*;
+import java.util.Scanner;
 /**
  * 
  * @Description 项目中提供了TSUtility.java类，可用来方便地实现键盘访问。

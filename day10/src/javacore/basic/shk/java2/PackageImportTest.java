@@ -7,10 +7,8 @@ import javacore.basic.shk.java2.java3.Dog;
 import java.lang.reflect.Field;
 import java.util.*;
 
-
-
-import static java.lang.System.*;
-import static java.lang.Math.*;
+import static java.lang.Math.round;
+import static java.lang.System.out;
 
 /*
  * 一、package关键字的使用
