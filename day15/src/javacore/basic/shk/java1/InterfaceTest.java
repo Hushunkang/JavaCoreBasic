@@ -92,32 +92,27 @@ class Bullet extends Object implements Flyable,Attackable,CC{
 
 	@Override
 	public void attack() {
-		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
 	public void fly() {
-		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
 	public void stop() {
-		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
 	public void method1() {
-		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
 	public void method2() {
-		// TODO Auto-generated method stub
-		
+
 	}
 	
 }
